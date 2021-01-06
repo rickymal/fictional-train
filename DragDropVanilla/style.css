@@ -1,0 +1,22 @@
+
+.container {
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box {
+    min-width: 100px;
+    min-height: 100px;
+    max-width: 100px;
+    max-height: 100px;
+
+    background-color: blueviolet;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
